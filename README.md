@@ -7,7 +7,7 @@ Esta atividade é requisito da Avaliação Continuada 2
 
 *CRIE UM PROJETO EM JAVA QUE DEMOSTRE UMA INTERFACE GRÁFICA
 
-[Diagrama de Classes do Exercício Acima]
+[DEMONSTRAÇÃO DO EXERCÍCIO ACIMA]
 
 (![BibliotecadeConversões drawio](image.png))
 
